@@ -30,3 +30,9 @@ background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freel
   color: white;
   font-size: 18px;
 }
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+  font-size: 11px;
+}
